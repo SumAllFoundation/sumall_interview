@@ -23,7 +23,7 @@ We are interested in finding the top 10 individuals in the test set who are loca
 
 The dataset contains a subset of tweet data related to the conflict in Syria.
 
-https://www.dropbox.com/s/pmdi6kmh8k0v2tq/tweets.json.zip
+https://www.dropbox.com/s/c6byquc4sks0wow/tweets.json.zip
 
 We want you to simply count the number of tweets for each day and visualize it using the tool of your choice.
 
