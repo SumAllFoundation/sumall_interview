@@ -2,7 +2,7 @@ Assignment
 
 Thanks for your interest and taking your time to work on the set of exercises below. We thought that exposing you to some of the real life questions we work on would help us understand your skillset better.
 
-Please push your answers (and the code) onto Github when you are done. We prefer you to write the code in Python or R -in that order-. We want to give you ample time to work on the problems, but the assignment should not take more than a day.
+Please push your answers (and the code) onto your Github and send us a link to it when you are done. We prefer you to write the code in Python or R -in that order-. We want to give you ample time to work on the problems, but the assignment should not take more than a day.
 
 We hope that you will find the process challenging and fun! Let us know if you have any questions.
 
@@ -23,7 +23,7 @@ We are interested in finding the top 10 individuals in the test set who are loca
 
 The dataset contains a subset of tweet data related to the conflict in Syria.
 
-https://www.dropbox.com/s/c6byquc4sks0wow/tweets.json.zip
+https://www.dropbox.com/s/wo6zqju6hv7nnx3/tweets.json.zip
 
 We want you to simply count the number of tweets for each day and visualize it using the tool of your choice.
 
